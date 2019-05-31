@@ -3,7 +3,7 @@
     "category": "Google+",
     "videos": [{
       "description": "SH Test description",
-      "sources": ["https://drive.google.com/open?id=0B1edkaPpe5EKLXpvaEZ6dm5ZM3c"],
+      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad.mp4"],
       "card": "https://drive.google.com/open?id=0B1edkaPpe5EKT2F2czdPRElPaVk",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
       "title": "TESTE",
